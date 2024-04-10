@@ -1,5 +1,6 @@
 # Setup
 title: Xu
+SEOTitle: 徐梦滢的博客 | Xu Blog
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://reset0514.github.io
 avatar: /avatar.jpeg
@@ -36,7 +37,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/reset0514
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
+  name: xumengying
+  url: https://github.com/reset0514/
   email: 2484227928@qq.com
