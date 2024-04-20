@@ -34,6 +34,6 @@ dates
 dates汇总了所有的博客，并按照时间进行了分类。
 
 tags
-![tags](tag.png)
+![tag](tag.png)
 
 tags展示了所有的标签，并按照标签对博客进行了分类，简洁明了。
