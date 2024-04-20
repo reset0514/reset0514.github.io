@@ -28,7 +28,7 @@ about
 ![about](about.png)
 
 Email
-![Email](Email.png)
+![Email](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/Email.png)
 
 主页顶端有dates和tags两个选项，均可以实现跳转。
 
