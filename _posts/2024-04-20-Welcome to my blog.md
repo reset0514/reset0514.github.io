@@ -11,6 +11,8 @@ welcome to my blog!
 
 此个人博客基于Jekyll搭建，选择了Not Pure Poole主题。Not Pure Poole 是一个简单、美观且强大的博客 Jekyll 主题，它建立在 Poole and Pure 之上。
 
+Jekyll theme Not Pure Poole作者：vszhub
+
 [参考链接](https://github.com/vszhub/not-pure-poole)
 
 ## 页面展示
@@ -39,3 +41,23 @@ tags
 ![tag](tag.png)
 
 tags展示了所有的标签，并按照标签对博客进行了分类，简洁明了。
+
+## 准备阶段
+
+1.安装Jekyll环境
+1.1 安装git bash
+1.2 安装Ruby
+1.3 安装Jekyll
+打开cmd，进入命令行界面，切换到Ruby的安装目录下，执行以下命令安装 bundler 和 jekyll
+
+        ```yml
+        $ gem install jekyll bundler
+        ```
+
+安装完成后，执行以下命令查看 jekyll 和 bundler 的版本，以确认是否安装成功
+
+        ```yml
+        $ jekyll -v
+        $ bundler -v
+        ```
+[参考链接](https://zhuanlan.zhihu.com/p/672713591)
