@@ -25,20 +25,20 @@ Jekyll theme Not Pure Poole作者：vszhub
 点击图标，可以访问相应的社交平台。
 
 about
-![about](about.png)
+![about](http://reset0514.github.io/2024/04/19/Welcome-to-my-blog/about.png)
 
 Email
-![Email](Email.png)
+![Email](http://reset0514.github.io/2024/04/19/Welcome-to-my-blog/Email.png)
 
 主页顶端有dates和tags两个选项，均可以实现跳转。
 
 dates
-![date]date.png)
+![date](http://reset0514.github.io/2024/04/19/Welcome-to-my-blog/date.png)
 
 dates汇总了所有的博客，并按照时间进行了分类。
 
 tags
-![tag](tag.png)
+![tag](http://reset0514.github.io/2024/04/19/Welcome-to-my-blog/tag.png)
 
 tags展示了所有的标签，并按照标签对博客进行了分类，简洁明了。
 
