@@ -54,14 +54,14 @@ tags展示了所有的标签，并按照标签对博客进行了分类，简洁�
 
 打开cmd，进入命令行界面，切换到Ruby的安装目录下，执行以下命令安装 bundler 和 jekyll
 
-        ```yml
-        $ gem install jekyll bundler
-        ```
+```yml
+$ gem install jekyll bundler
+```
 
 安装完成后，执行以下命令查看 jekyll 和 bundler 的版本，以确认是否安装成功
 
-        ```yml
-        $ jekyll -v
-        $ bundler -v
-        ```
+ ```yml
+ $ jekyll -v
+ $ bundler -v
+ ```
 [参考链接](https://zhuanlan.zhihu.com/p/672713591)
