@@ -18,27 +18,27 @@ Jekyll theme Not Pure Poole作者：vszhub
 ## 页面展示
 
 主页
-![主页](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/主页.png)
+![主页](主页.png)
 
 主页展示了作者的基本信息以及博客内容。
 侧边栏展示了博客头像，昵称和简介，包含了blog和about两个功能，可以跳转到相应页面。
 点击图标，可以访问相应的社交平台。
 
 about
-![about](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/about.png)
+![about](about.png)
 
 Email
-![Email](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/Email.png)
+![Email](Email.png)
 
 主页顶端有dates和tags两个选项，均可以实现跳转。
 
 dates
-![date](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/date.png)
+![date]date.png)
 
 dates汇总了所有的博客，并按照时间进行了分类。
 
 tags
-![tag](https://github.com/reset0514/reset0514.github.io/blob/master/_posts/tag.png)
+![tag](tag.png)
 
 tags展示了所有的标签，并按照标签对博客进行了分类，简洁明了。
 
