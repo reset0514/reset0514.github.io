@@ -14,4 +14,4 @@ welcome to my blog!
 ## 页面展示
 
 主页
-![主页](主页.png)
+![screenshot](主页.png)
