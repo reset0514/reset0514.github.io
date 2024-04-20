@@ -45,9 +45,13 @@ tags展示了所有的标签，并按照标签对博客进行了分类，简洁�
 ## 准备阶段
 
 1.安装Jekyll环境
+
 1.1 安装git bash
+
 1.2 安装Ruby
+
 1.3 安装Jekyll
+
 打开cmd，进入命令行界面，切换到Ruby的安装目录下，执行以下命令安装 bundler 和 jekyll
 
         ```yml
