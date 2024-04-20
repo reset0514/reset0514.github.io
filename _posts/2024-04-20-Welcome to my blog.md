@@ -11,6 +11,8 @@ welcome to my blog!
 
 此个人博客基于Jekyll搭建，选择了Not Pure Poole主题。Not Pure Poole 是一个简单、美观且强大的博客 Jekyll 主题，它建立在 Poole and Pure 之上。
 
+[参考链接](https://vszhub.github.io/not-pure-poole/).
+
 ## 页面展示
 
 主页
