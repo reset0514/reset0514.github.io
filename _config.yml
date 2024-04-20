@@ -3,10 +3,10 @@ title: Xu
 SEOTitle: 徐梦滢的博客 | Xu Blog
 description: welcome my blog!
 url: https://reset0514.github.io
-avatar: /avatar.jpeg
+avatar: /tx.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
