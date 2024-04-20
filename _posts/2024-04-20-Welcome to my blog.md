@@ -18,6 +18,8 @@ Jekyll theme Not Pure Poole作者：vszhub
 ## 页面展示
 
 主页
+![主页](/_posts/主页.png "主页")
+
 ![主页](主页.png)
 
 
