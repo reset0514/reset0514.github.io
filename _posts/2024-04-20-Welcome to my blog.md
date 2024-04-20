@@ -18,7 +18,7 @@ Jekyll theme Not Pure Poole作者：vszhub
 ## 页面展示
 
 主页
-![主页](Welcome-to-my-blog/主页.png "主页")
+![主页](Welcome-to-my-blog/main.png "主页")
 
 
 主页展示了作者的基本信息以及博客内容。
