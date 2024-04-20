@@ -15,3 +15,25 @@ welcome to my blog!
 
 主页
 ![主页](主页.png)
+
+主页展示了作者的基本信息以及博客内容。
+侧边栏展示了博客头像，昵称和简介，包含了blog和about两个功能，可以跳转到相应页面。
+点击图标，可以访问相应的社交平台。
+
+about
+![about](about.png)
+
+Email
+![Email](Email.png)
+
+主页顶端有dates和tags两个选项，均可以实现跳转。
+
+dates
+![date](date.png)
+
+dates汇总了所有的博客，并按照时间进行了分类。
+
+tags
+![tags](tags.png)
+
+tags展示了所有的标签，并按照标签对博客进行了分类，简洁明了。
