@@ -19,6 +19,7 @@ Jekyll theme Not Pure Poole作者：vszhub
 
 主页
 ![主页](主页.png)
+{% raw %}![主页]({{ "主页.png" | relative_url }}){% endraw %}
 
 主页展示了作者的基本信息以及博客内容。
 侧边栏展示了博客头像，昵称和简介，包含了blog和about两个功能，可以跳转到相应页面。
